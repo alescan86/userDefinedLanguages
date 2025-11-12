@@ -15,9 +15,9 @@
             <Keywords name="Numbers, range"></Keywords>
             <Keywords name="Operators1">! &quot; + &gt;</Keywords>
             <Keywords name="Operators2"></Keywords>
-            <Keywords name="Folders in code1, open">&lt;Directory &lt;DirectoryMatch &lt;Files &lt;FilesMatch &lt;IfDefine &lt;IfModule &lt;IfVersion &lt;Limit &lt;LimitExcept &lt;Location &lt;LocationMatch &lt;Proxy &lt;ProxyMatch &lt;VirtualHost</Keywords>
+            <Keywords name="Folders in code1, open">&lt;Directory &lt;DirectoryMatch &lt;FilesMatch &lt;Files &lt;IfDefine &lt;IfModule &lt;IfVersion &lt;Limit &lt;LimitExcept &lt;Location &lt;LocationMatch &lt;Proxy &lt;ProxyMatch &lt;VirtualHost</Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
-            <Keywords name="Folders in code1, close">&lt;/Directory &lt;/DirectoryMatch &lt;/Files &lt;/FilesMatch &lt;/IfDefine &lt;/IfModule &lt;/IfVersion &lt;/Limit &lt;/LimitExcept &lt;/Location &lt;/LocationMatch &lt;/Proxy &lt;/ProxyMatch &lt;/VirtualHost</Keywords>
+            <Keywords name="Folders in code1, close">&lt;/Directory &lt;/DirectoryMatch &lt;/FilesMatch &lt;/Files &lt;/IfDefine &lt;/IfModule &lt;/IfVersion &lt;/Limit &lt;/LimitExcept &lt;/Location &lt;/LocationMatch &lt;/Proxy &lt;/ProxyMatch &lt;/VirtualHost</Keywords>
             <Keywords name="Folders in code2, open"></Keywords>
             <Keywords name="Folders in code2, middle"></Keywords>
             <Keywords name="Folders in code2, close"></Keywords>
@@ -62,3 +62,4 @@
         </Styles>
     </UserLang>
 </NotepadPlus>
+
